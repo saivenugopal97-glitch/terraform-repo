@@ -1,9 +1,9 @@
 provider "aws" {
-region = "us-east-1"
+region = "eu-north-1"
 }
 
 resource "aws_s3_bucket" "demo" {
-bucket = "my-githubactions-bucket-oo99"
+bucket = "my-githubactions-bucket-oo996754422446"
 }
 
 
